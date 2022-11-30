@@ -1,0 +1,53 @@
+{
+    // Thx Grafikart 💗 https://youtu.be/GFmE5_8xypY
+
+    // WINDOWS:
+    "window.zoomLevel": 0,
+
+    // EDITOR:
+    // Disabled minimap
+    "editor.minimap.enabled": false,
+    // Disabled auto format text
+    "editor.formatOnSave": false,
+    "editor.formatOnPaste": false,
+    // Enabled Withespace
+    "editor.renderWhitespace": "all",
+    // Enabled auto modification balises
+    "editor.linkedEditing": true,
+    // Disabled insert suggestion and enabled replace (CTRL+Space)
+    "editor.suggest.insertMode": "replace",
+    // Disabled auto correction First suggestion
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    // Heigth Line & font size
+    "editor.lineHeight": 28,
+    "editor.fontSize": 16,
+    // Command natif for replace Rainbow Bracket extension
+    "editor.bracketPairColorization.enabled":true,
+
+    // FILES:
+    // Enabled autosave
+    "files.autoSave": "onFocusChange",
+    // Markdown default
+    "files.defaultLanguage": "markdown",
+
+    // EXPLORER:
+    "explorer.autoReveal": "focusNoScroll",
+
+    // WORKBENCH:
+    // Indetation tree
+    "workbench.tree.indent": 15,
+    // always bar indentation tree
+    "workbench.tree.renderIndentGuides": "always",
+    // Disabled previous files
+    "workbench.editor.enablePreview": false,
+    // Enabled extension icon
+    "workbench.iconTheme": "material-icon-theme",
+
+    // EMMET
+    // Auto Expansion balise (tab)
+    "emmet.triggerExpansionOnTab": true,
+
+    // LIVESERVER:
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+    "liveServer.settings.donotVerifyTags": true
+}
